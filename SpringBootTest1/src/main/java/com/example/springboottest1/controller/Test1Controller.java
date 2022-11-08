@@ -35,9 +35,5 @@ public class Test1Controller {
     public String hello4(){
         return "hello springboot test4";
     }
-    @RequestMapping("/test5")
-    @ResponseBody
-    public String hello5(){
-        return "hello springboot test5";
-    }
+
 }
