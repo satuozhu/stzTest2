@@ -28,9 +28,5 @@ public class Test1Controller {
     public String hello3(){
         return "hello springboot test3";
     }
-    @RequestMapping("/test4")
-    public String hello4(){
-        return "hello springboot test4";
-    }
-
+    
 }
